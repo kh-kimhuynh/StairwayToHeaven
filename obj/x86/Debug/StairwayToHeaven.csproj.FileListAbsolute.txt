@@ -1,0 +1,9 @@
+C:\Users\huynkim699\Documents\Projects\StairwayToHeaven\StairwayToHeaven\bin\Debug\StairwayToHeaven.exe
+C:\Users\huynkim699\Documents\Projects\StairwayToHeaven\StairwayToHeaven\bin\Debug\StairwayToHeaven.pdb
+C:\Users\huynkim699\Documents\Projects\StairwayToHeaven\StairwayToHeaven\obj\x86\Debug\StairwayToHeaven.exe
+C:\Users\huynkim699\Documents\Projects\StairwayToHeaven\StairwayToHeaven\obj\x86\Debug\StairwayToHeaven.pdb
+H:\StairwayToHeaven\StairwayToHeaven\obj\x86\Debug\StairwayToHeaven.exe
+H:\StairwayToHeaven\StairwayToHeaven\bin\Debug\StairwayToHeaven.exe
+H:\StairwayToHeaven\StairwayToHeaven\bin\Debug\StairwayToHeaven.pdb
+H:\StairwayToHeaven\StairwayToHeaven\obj\x86\Debug\StairwayToHeaven.csprojResolveAssemblyReference.cache
+H:\StairwayToHeaven\StairwayToHeaven\obj\x86\Debug\StairwayToHeaven.pdb
